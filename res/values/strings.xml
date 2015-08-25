@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Collector</string>
+    
+    <string name="msgLabel">"Message: "</string>
+    
+    <string name="runBtnLabel">Run</string>
+    <string name="stopBtnLabel">Stop</string>
+    <string name="newBtnLabel">New</string>
+    <string name="setBtnLabel">Set</string>
+    
+    <string name="dialogMsg">Enter a new message</string>
+    
+    <string name="okBtnLabel">OK</string>
+    <string name="cancelBtnLabel">Cancel</string>
+    
+    <string name="notificationText">Collector is running</string>
+
+</resources>
